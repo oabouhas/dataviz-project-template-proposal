@@ -14,17 +14,39 @@ major metropolitan divisions.
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+1. **Compare Unemployment Rates Across Different States:**
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+   - Visualize and compare the unemployment rates for each
+     state to identify states with the highest and lowest
+     unemployment rates.
+
+2. **Analyze Trends in Unemployment Rates Over Time:**
+
+   - Track how unemployment rates have changed over the
+     years or months to identify trends or seasonal patterns
+     in unemployment.
+
+3. **Explore the Relationship Between Unemployment Rates and
+   Economic Indicators:**
+
+   - Investigate how unemployment rates correlate with other
+     economic indicators such as GDP growth or inflation
+     rates to understand the broader economic context.
+
+4. **Examine the Distribution of Unemployment Rates:**
+
+   - Create histograms or box plots to visualize the
+     distribution of unemployment rates across states and
+     identify any unusual patterns or outliers.
+
+5. **Identify States with High Unemployment Risk Factors:**
+   - Use the dataset to identify states with high
+     unemployment rates and analyze potential factors
+     contributing to their high unemployment levels.
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+<img width="1440" alt="Screen Shot 2024-09-25 at 5 14 54 PM" src="https://github.com/user-attachments/assets/4140897b-151d-4568-94e6-db1b8aeaeb58">
 
 
 ## Prototypes
