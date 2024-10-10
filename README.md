@@ -2,7 +2,14 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The
+[Unemployment in America Per US State](https://github.com/justin-2028/Unemployment-in-America-Per-US-State/blob/main/Unemployment%20in%20America%20Per%20US%20State.csv),
+loaded and parsed as CSV.
+
+This dataset tracks unemployment per US state since 1976,
+including additional areas like the District of Columbia and
+major metropolitan divisions.
+
 
 
 ## Questions & Tasks
