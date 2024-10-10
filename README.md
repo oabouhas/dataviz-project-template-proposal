@@ -63,7 +63,10 @@ Total population of a state (X-axis) Unemployment rate in the state (Y-axis) Thi
 https://vizhub.com/oabouhas/unemployment-rate-vs-population-scatter-plot-visualization
 
 ## Milestones
-- I want to try to get county-level data
-- I want to create a multi-line chart of all states over all years.
-- I need to finish the Choropleth Map
-- I want to use  a variety of graphs that highlight different aspects of the data
+- County-Level Data: I will attempt to source and integrate county-level unemployment data to provide more granular insights into unemployment patterns within each state.
+
+- Multi-Line Chart (All States Over All Years): I plan to create a comprehensive multi-line chart that visualizes the unemployment rate trends across all states for each year. This will help in identifying long-term patterns, spikes, or trends at the state level.
+
+- Choropleth Map: I will finalize the Choropleth Map, which will visually display the unemployment rates across U.S. states, color-coded by rate. This map will serve as a geographic overview of the unemployment landscape.
+
+- Diverse Graph Types: I intend to employ a variety of graphs, such as bar charts, scatter plots, and time-series graphs, to explore different aspects of the data. This diversity in visualization will provide multiple perspectives and uncover hidden patterns within the dataset.
