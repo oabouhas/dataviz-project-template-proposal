@@ -62,6 +62,17 @@ Unemployment Rate vs Population Scatter Plot Visualization This project visualiz
 Total population of a state (X-axis) Unemployment rate in the state (Y-axis) This visualization aims to provide insights into the employment status in different US states over time.
 https://vizhub.com/oabouhas/unemployment-rate-vs-population-scatter-plot-visualization
 
+<img width="963" alt="Screen Shot 2024-10-22 at 6 02 47 PM" src="https://github.com/user-attachments/assets/5de53a94-167f-4864-b167-fd71aa280a93">
+This graph visualizes the distribution of unemployment rates in the US for the year 2022 using a colored histogram.The histogram bars are colored based on the unemployment
+rate.The histogram uses D3.js to render the bars and color them based on the unemployment rate. The x-axis represents the unemployment rate, and the y-axis represents the number of states. The title provides context for the visualization.
+https://vizhub.com/oabouhas/c9421d4fae384fdbb4afef6d39ebf7aa
+
+<img width="964" alt="Screen Shot 2024-10-22 at 6 05 24 PM" src="https://github.com/user-attachments/assets/c0109ba7-9d9a-4360-a565-6268f37232b2">
+
+This project visualizes the unemployment rates in the US in 2022 using a bubble map. Each bubble's size and color represent the unemployment rate for each state.
+https://vizhub.com/oabouhas/29044359fb9045d681a1ebc87b522580
+
+
 ## Milestones
 - County-Level Data: I will attempt to source and integrate county-level unemployment data to provide more granular insights into unemployment patterns within each state.
 
