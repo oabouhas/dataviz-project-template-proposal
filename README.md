@@ -83,6 +83,13 @@ Bubble Map: Unemployment Rates in the US
 This project visualizes the unemployment rates in the US in 2022 using a bubble map. Each bubble’s size and color represent the unemployment rate for each state.
 https://vizhub.com/oabouhas/29044359fb9045d681a1ebc87b522580
 
+Unemployment Rate Box Plot Visualization
+<img width="969" alt="Screen Shot 2024-10-30 at 10 41 40 PM" src="https://github.com/user-attachments/assets/a3a593b9-2d2e-4d58-bff4-9b430526c7bc">
+
+This project visualizes unemployment rate data across various U.S. states for the year 2020. Using D3.js, it presents a box plot to highlight the distribution of unemployment rates, showing median, quartiles, and range (min-max) for each state. This is part of a data visualization project aimed at making statistical data on employment more accessible and insightful.
+
+https://vizhub.com/oabouhas/80ed8790b9f1420dac9be35c6d28920b
+
 
 ## Milestones
 - County-Level Data: I will attempt to source and integrate county-level unemployment data to provide more granular insights into unemployment patterns within each state.
