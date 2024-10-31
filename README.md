@@ -91,6 +91,15 @@ This project visualizes unemployment rate data across various U.S. states for th
 https://vizhub.com/oabouhas/80ed8790b9f1420dac9be35c6d28920b
 
 
+Unemployment Rate Heatmap
+<img width="850" alt="Screen Shot 2024-10-31 at 11 55 08 PM" src="https://github.com/user-attachments/assets/9b7215e7-2f43-41c2-9141-674b4ff7c3cb">
+This project visualizes the monthly unemployment rates across different states using a heatmap.
+Data Processing
+The data is processed to categorize monthly unemployment rates. The categorizeMonthlyUnemployment function transforms the raw data into a format suitable for the heatmap.
+
+https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08
+
+
 ## Milestones
 - County-Level Data: I will attempt to source and integrate county-level unemployment data to provide more granular insights into unemployment patterns within each state.
 - Multi-Line Chart (All States Over All Years): I plan to create a comprehensive multi-line chart that visualizes the unemployment rate trends across all states for each year. This will help in identifying long-term patterns, spikes, or trends at the state level.
