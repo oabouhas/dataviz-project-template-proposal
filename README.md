@@ -46,13 +46,13 @@ major metropolitan divisions.
 
 ## Sketches
 Bar Chart: Unemployment Rates Across States
-<img width="972" alt="Screen Shot 2024-10-10 at 10 04 59 AM" src="https://github.com/user-attachments/assets/02c00ccf-8f3a-4132-a675-fb2d63a10663">
+<img width="992" alt="Screen Shot 2024-11-07 at 10 31 35 PM" src="https://github.com/user-attachments/assets/84910689-e55a-40a6-a791-9b86b1aa0b7b">
 
 This bar chart visualization displaying "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
 1.Color Coding: The use of darker shades of blue for higher unemployment rates works well for visual emphasis. The gradient gives a quick visual indication of which states have higher or lower rates.
 2.Labels: The percentage labels on top of each bar make it easy to compare unemployment rates across states at a glance, which is effective for data communication.
 3.Axis Titles: Both the x-axis (States) and y-axis (Unemployment Rate %) are clearly labeled, contributing to overall readability.
-https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c
+[https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c](https://vizhub.com/oabouhas/7d7187da88d149d49551e6f5d54b3b09)
 
 
 Scatter Plot: Unemployment Rate vs Population
@@ -92,12 +92,27 @@ https://vizhub.com/oabouhas/80ed8790b9f1420dac9be35c6d28920b
 
 
 Unemployment Rate Heatmap
-<img width="850" alt="Screen Shot 2024-10-31 at 11 55 08 PM" src="https://github.com/user-attachments/assets/9b7215e7-2f43-41c2-9141-674b4ff7c3cb">
-This project visualizes the monthly unemployment rates across different states using a heatmap.
-Data Processing
-The data is processed to categorize monthly unemployment rates. The categorizeMonthlyUnemployment function transforms the raw data into a format suitable for the heatmap.
+<img width="964" alt="Screen Shot 2024-11-07 at 11 44 17 AM" src="https://github.com/user-attachments/assets/2bf6d226-3ea6-436f-a215-eea8a86d641d">
 
-https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08
+U.S. Unemployment Rates Heatmap Overview This visualization
+displays the monthly unemployment rates across selected U.S.
+states in the form of a heatmap. Each cell in the heatmap
+represents the unemployment rate for a specific state and
+month. The heatmap colors range from lighter shades for
+lower unemployment rates to darker shades for higher rates,
+providing a quick visual comparison across states and time.
+
+Features Color-Coded Heatmap: Each cell’s color represents
+the unemployment rate, with darker colors indicating higher
+rates. Interactive Tooltip: Hovering over a cell shows
+detailed information about the state, month, and
+unemployment rate. Legend: A vertical legend on the right
+shows the color ranges and their associated unemployment
+rate thresholds, helping interpret the heatmap colors. Color
+Scale The color scale is divided into discrete ranges to
+capture the variance in unemployment rates 
+
+[https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08](https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08)
 
 
 ## Milestones
