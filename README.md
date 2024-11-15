@@ -146,6 +146,28 @@ capture the variance in unemployment rates
 [https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08](https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08)
 
 
+Pie Chart unemployment across various U.S. states.
+<img width="980" alt="Screen Shot 2024-11-15 at 5 53 02 PM" src="https://github.com/user-attachments/assets/f73c507e-da24-4460-b35a-ddcfdbc75797">
+This project is a D3.js-based interactive pie chart visualization, showcasing the proportion of unemployment across various U.S. states. It leverages dynamic data filtering, interactive elements, and animations to create an engaging user experience.
+Features
+Dynamic Data Representation
+
+Visualizes the unemployment percentage for up to 30 states using a pie chart.
+Automatically calculates the proportion of each state based on total unemployment.
+Interactivity
+
+Slice Hover Interaction:
+Hovering over a slice displays the state name, unemployment percentage, and value in a tooltip.
+Slices expand slightly when hovered over for better visibility.
+Legend Interaction:
+Hovering over a legend item highlights the corresponding slice in the chart.
+Clicking a legend item filters data dynamically by region.
+Click Interaction:
+Clicking a slice updates the chart with the selected state displayed prominently.
+Animations
+
+
+
 ## Milestones
 - County-Level Data: I will attempt to source and integrate county-level unemployment data to provide more granular insights into unemployment patterns within each state.
 - Multi-Line Chart (All States Over All Years): I plan to create a comprehensive multi-line chart that visualizes the unemployment rate trends across all states for each year. This will help in identifying long-term patterns, spikes, or trends at the state level.
