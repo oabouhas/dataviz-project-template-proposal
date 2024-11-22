@@ -165,7 +165,14 @@ Clicking a legend item filters data dynamically by region.
 Click Interaction:
 Clicking a slice updates the chart with the selected state displayed prominently.
 Animations
+Line Chart with Multiple Lines Unemployment Rates Comparison
+<img width="972" alt="Screen Shot 2024-11-18 at 3 55 47 PM" src="https://github.com/user-attachments/assets/fdee1345-9fd8-440d-b74c-336d161f558d">
 
+ This project visualizes the unemployment rates of selected US states over time using a line chart. The chart includes interactive features and a color-coded legend to indicate which color represents each state.
+
+Features Interactive Line Chart: Hover over the lines to see the state names and highlight the selected line. Color-Coded Legend: A legend on the right side of the chart indicates which color represents each state. Responsive Design: The chart adjusts its size based on the container dimensions.
+
+https://vizhub.com/oabouhas/8626a35aa0e34f18864d815d95142a33
 
 
 ## Milestones
