@@ -90,7 +90,9 @@ Bar Chart: Unemployment Rates Across States
 This bar chart visualization displays "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
 
 -Color Coding: The use of darker shades of blue for higher unemployment rates works well for visual emphasis. The gradient gives a quick visual indication of which states have higher or lower rates.
+
 -Labels: The percentage labels on top of each bar make it easy to compare unemployment rates across states at a glance, which is effective for data communication.
+
 -Axis Titles: Both the x-axis (States) and y-axis (Unemployment Rate %) are clearly labeled, contributing to overall readability.
 https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c
 
