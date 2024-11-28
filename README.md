@@ -134,14 +134,16 @@ https://vizhub.com/oabouhas/5e31e71e07b243db9305f38887d278d7
 This interactive grouped bar chart visualizes unemployment rates across different states over multiple years. The chart allows users to select a specific year and view the corresponding unemployment rates for each state.
 
 -Grouped Bar Chart: Displays unemployment rates for each state, grouped by year.
-Interactive Dropdown: Allows users to select a year and update the chart dynamically.
-Tooltips: Provides additional information when hovering over bars, showing the exact unemployment rate for the selected year and state.
-Legend: Indicates the colors corresponding to different years.
-Hover: Hover over the bars to see the exact unemployment rate for the selected year and state.
+
+-Tooltips: Provides additional information when hovering over bars, showing the exact unemployment rate for the selected year and state. 
+
+-Legend: Indicates the colors corresponding to different years.
+
+-Hover: Hover over the bars to see the exact unemployment rate for the selected year and state.
 https://vizhub.com/oabouhas/714e632e9dee49309364e9ca2e2784db
 
 
-Scatter Plot: Unemployment Rate vs Population
+**Scatter Plot: Unemployment Rate vs Population**
 
 <img width="1251" alt="Screen Shot 2024-10-10 at 10 13 14 AM" src="https://github.com/user-attachments/assets/5ebe9f5e-07e1-41b5-a04a-e5053440ca64">
 This project visualizes the relationship between the population and unemployment rate across different US states over time using a scatter plot.
@@ -152,7 +154,7 @@ This visualization aims to provide insights into the employment status in differ
 
 https://vizhub.com/oabouhas/unemployment-rate-vs-population-scatter-plot-visualization
 
-Histogram: Distribution of Unemployment Rates
+**Histogram: Distribution of Unemployment Rates**
 
 <img width="963" alt="Screen Shot 2024-10-22 at 6 02 47 PM" src="https://github.com/user-attachments/assets/5de53a94-167f-4864-b167-fd71aa280a93">
 This graph visualizes the distribution of unemployment rates in the US for the year 2022 using a colored histogram. The histogram bars are colored based on the unemployment rate.
@@ -162,14 +164,14 @@ Y-axis: Number of states
 The histogram uses D3.js to render the bars and color them based on the unemployment rate. 
 https://vizhub.com/oabouhas/c9421d4fae384fdbb4afef6d39ebf7aa
 
-Bubble Map: Unemployment Rates in the US
+**Bubble Map: Unemployment Rates in the US**
 
 <img width="964" alt="Screen Shot 2024-10-22 at 6 05 24 PM" src="https://github.com/user-attachments/assets/c0109ba7-9d9a-4360-a565-6268f37232b2">
 
 This project visualizes the unemployment rates in the US in 2022 using a bubble map. Each bubble’s size and color represent the unemployment rate for each state.
 https://vizhub.com/oabouhas/29044359fb9045d681a1ebc87b522580
 
-Unemployment Rate Box Plot Visualization
+**Unemployment Rate Box Plot Visualization**
 <img width="969" alt="Screen Shot 2024-10-30 at 10 41 40 PM" src="https://github.com/user-attachments/assets/a3a593b9-2d2e-4d58-bff4-9b430526c7bc">
 
 This project visualizes unemployment rate data across various U.S. states for the year 2020. Using D3.js, it presents a box plot to highlight the distribution of unemployment rates, showing median, quartiles, and range (min-max) for each state. This is part of a data visualization project aimed at making statistical data on employment more accessible and insightful.
@@ -177,7 +179,7 @@ This project visualizes unemployment rate data across various U.S. states for th
 https://vizhub.com/oabouhas/80ed8790b9f1420dac9be35c6d28920b
 
 
-Unemployment Rate Heatmap
+**Unemployment Rate Heatmap**
 <img width="964" alt="Screen Shot 2024-11-07 at 11 44 17 AM" src="https://github.com/user-attachments/assets/2bf6d226-3ea6-436f-a215-eea8a86d641d">
 
 U.S. Unemployment Rates Heatmap Overview This visualization
@@ -201,7 +203,7 @@ capture the variance in unemployment rates
 [https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08](https://vizhub.com/oabouhas/347dee7845ba4490a2826b587ba3af08)
 
 
-Pie Chart unemployment across various U.S. states.
+**Pie Chart unemployment across various U.S. states**.
 <img width="980" alt="Screen Shot 2024-11-15 at 5 53 02 PM" src="https://github.com/user-attachments/assets/f73c507e-da24-4460-b35a-ddcfdbc75797">
 This project is a D3.js-based interactive pie chart visualization, showcasing the proportion of unemployment across various U.S. states. It leverages dynamic data filtering, interactive elements, and animations to create an engaging user experience.
 Features
@@ -219,8 +221,10 @@ Hovering over a legend item highlights the corresponding slice in the chart.
 Clicking a legend item filters data dynamically by region.
 Click Interaction:
 Clicking a slice updates the chart with the selected state displayed prominently.
-Animations
-Line Chart with Multiple Lines Unemployment Rates Comparison
+
+
+
+**Line Chart with Multiple Lines Unemployment Rates Comparison**
 <img width="972" alt="Screen Shot 2024-11-18 at 3 55 47 PM" src="https://github.com/user-attachments/assets/fdee1345-9fd8-440d-b74c-336d161f558d">
 
  This project visualizes the unemployment rates of selected US states over time using a line chart. The chart includes interactive features and a color-coded legend to indicate which color represents each state.
@@ -230,16 +234,21 @@ Features Interactive Line Chart: Hover over the lines to see the state names and
 https://vizhub.com/oabouhas/8626a35aa0e34f18864d815d95142a33
 
 
-## Milestones
-- County-Level Data: I will attempt to source and integrate county-level unemployment data to provide more granular insights into unemployment patterns within each state.
-- Multi-Line Chart (All States Over All Years): I plan to create a comprehensive multi-line chart that visualizes the unemployment rate trends across all states for each year. This will help in identifying long-term patterns, spikes, or trends at the state level.
-- Choropleth Map: I will finalize the Choropleth Map, which will visually display the unemployment rates across U.S. states, color-coded by rate. This map will serve as a geographic overview of the unemployment landscape.
-- Diverse Graph Types: I intend to employ a variety of graphs, such as bar charts, scatter plots, and time-series graphs, to explore different aspects of the data. This diversity in visualization will provide multiple perspectives and uncover hidden patterns within the dataset.
+## Challenges Faced
+Throughout the project, several challenges were encountered, including:
 
-  
-## Current Progress
-- Choropleth Map: Currently working on it and will have it done by next week (Week 10).
-- Multi-Line Chart: Currently working on it and will have it done by next week (Week 10).
-- HeatMap: Currently working on it and will have it done by next week (Week 10).
-- Bubble Map: Finished in Week 9.
-- Colored Histogram: Finished in Week 9.
+-Handling large datasets efficiently
+-Ensuring the visualizations are responsive and perform well on different devices
+-Making the visualizations accessible to all users
+
+## Future Work
+While the current version of the project is complete, there are several areas for future improvement:
+
+-Adding more interactive features such as drill-downs and animations
+-Incorporating additional datasets to provide more context
+-Enhancing the user interface for better usability
+
+## Conclusion
+This project has been a fantastic learning experience, and I'm proud of the final product. The interactive visualization provides valuable insights into the dataset and allows users to explore the data in a meaningful way. You can view the working visualization here.
+
+Thank you for taking the time to read about my project. I hope you find the visualization as insightful and engaging as I do!
