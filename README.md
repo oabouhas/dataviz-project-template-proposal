@@ -84,7 +84,7 @@ The dataset is used to identify states with high unemployment rates and analyze 
 
 
 ## Visualizations
-Bar Chart: Unemployment Rates Across States
+**Bar Chart: Unemployment Rates Across States**
 <img width="973" alt="Screen Shot 2024-11-28 at 3 10 16 PM" src="https://github.com/user-attachments/assets/6668d87b-7da0-4335-853e-0a18c521da32">
 
 This bar chart visualization displays "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
@@ -96,28 +96,35 @@ This bar chart visualization displays "Unemployment Rates Across States," with d
 -Axis Titles: Both the x-axis (States) and y-axis (Unemployment Rate %) are clearly labeled, contributing to overall readability.
 https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c
 
-Bar Chart: the unemployment rates for 25 random states over 10 years
+**Bar Chart: the unemployment rates for 25 random states over 10 years**
 <img width="993" alt="Screen Shot 2024-11-14 at 1 05 07 PM" src="https://github.com/user-attachments/assets/2d2f6c15-9493-4592-9411-7b840bd23f16">
-The project uses D3.js to create an interactive grouped bar
-chart that visualizes unemployment rates across different
-states over multiple years. The chart allows users to select
-a specific year and view the corresponding unemployment
-rates for each state.
-Features Grouped Bar Chart: Displays unemployment rates for
-each state, grouped by year. Tooltips: Provides additional
-information when hovering over bars, showing the exact
-unemployment rate for the selected year and state. Legend:
-Indicates the colors corresponding to different years.
-Hover: Hover over the bars to see the exact unemployment
-rate for the selected year and state.
+This project uses D3.js to create an interactive grouped bar chart that visualizes unemployment rates across different states over multiple years. The chart allows users to select a specific year and view the corresponding unemployment rates for each state.
+
+-Grouped Bar Chart: Displays unemployment rates for each state, grouped by year.
+
+-Tooltips: Provides additional information when hovering over bars, showing the exact unemployment rate for the selected year and state.
+
+-Legend: Indicates the colors corresponding to different years.
+
+-Hover: Hover over the bars to see the exact unemployment rate for the selected year and state.
 https://vizhub.com/oabouhas/47c2963a9a364d0bae7ec4654e179055
 
 
-Bar Chart: the unemployment rates for 25 random states over 10 years with a dropDown
+**Bar Chart: the unemployment rates for 25 random states over 10 years with a dropDown**
 <img width="990" alt="Screen Shot 2024-11-14 at 1 09 14 PM" src="https://github.com/user-attachments/assets/cbdf1b71-9e7d-42b8-8297-3b3fc81cb73c">
-an interactive grouped bar chart that visualizes unemployment rates across different states over multiple years. The chart allows users to select a specific year and view the corresponding unemployment rates for each state.
+An interactive grouped bar chart that visualizes unemployment rates across different states over multiple years. The chart allows users to select a specific year and view the corresponding unemployment rates for each state.
 
-Features Grouped Bar Chart: Displays unemployment rates for each state, grouped by year. Interactive Dropdown: Allows users to select a year and update the chart dynamically. Tooltips: Provides additional information when hovering over bars, showing the exact unemployment rate for the selected year and state. Legend: Indicates the colors corresponding to different years. Hover: Hover over the bars to see the exact unemployment rate for the selected year and state. Select Year: Use the dropdown menu to select a different year and update the chart dynamically.
+-Grouped Bar Chart: Displays unemployment rates for each state, grouped by year.
+
+-Interactive Dropdown: Allows users to select a year and update the chart dynamically.
+
+-Tooltips: Provides additional information when hovering over bars, showing the exact unemployment rate for the selected year and state.
+
+-Legend: Indicates the colors corresponding to different years.
+
+-Hover: Hover over the bars to see the exact unemployment rate for the selected year and state.
+
+-Select Year: Use the dropdown menu to select a different year and update the chart dynamically.
 https://vizhub.com/oabouhas/5e31e71e07b243db9305f38887d278d7
 
 Bar Chart: the unemployment rates for each state from 1990 to 2010
