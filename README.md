@@ -1,16 +1,18 @@
-# Data Visualization Project
-
-## Data
-
-The
-[Unemployment in America Per US State](https://github.com/justin-2028/Unemployment-in-America-Per-US-State/blob/main/Unemployment%20in%20America%20Per%20US%20State.csv),
-loaded and parsed as CSV.
-
-This dataset tracks unemployment per US state since 1976,
-including additional areas like the District of Columbia and
-major metropolitan divisions.
+# Data Visualization Project : Unemployment in America
 
 
+## Introduction
+Welcome to my data visualization project! This project focuses on visualizing unemployment rates across the United States from 1976 to the present. The dataset includes data for all US states, the District of Columbia, and major metropolitan divisions. This post will guide you through the steps taken, the challenges faced, and the final outcome of this project.
+[Unemployment in America Per US State](https://github.com/justin-2028/Unemployment-in-America-Per-US-State/blob/main/Unemployment%20in%20America%20Per%20US%20State.csv)
+
+## Project Overview
+The goal of this project is to provide an interactive and insightful visualization of unemployment rates in America. The dataset, "Unemployment in America Per US State," tracks unemployment rates since 1976. The visualization aims to answer key questions such as:
+
+How do unemployment rates compare across different states?
+What are the trends in unemployment rates over time?
+How do unemployment rates correlate with other economic indicators?
+What is the distribution of unemployment rates across states?
+Which states have high unemployment risk factors?
 
 ## Questions & Tasks
 
