@@ -66,15 +66,31 @@ Using tools like D3.js and Tableau, I built the initial prototypes of the visual
 After several iterations, the final version of the visualization was completed. It includes interactive features such as tooltips, zooming, and filtering, making it easy for users to explore the data.
 
 
+## Analysis and Insights
+-Compare Unemployment Rates Across Different States
+The visualization allows users to compare unemployment rates for each state, identifying states with the highest and lowest unemployment rates. This comparison helps highlight regional disparities in unemployment.
 
-## Sketches
+-Analyze Trends in Unemployment Rates Over Time
+By tracking unemployment rates over the years, the visualization reveals trends and seasonal patterns. Users can see how unemployment rates have changed over time and identify periods of economic downturn or recovery.
+
+-Explore the Relationship Between Unemployment Rates and Economic Indicators
+The project investigates correlations between unemployment rates and other economic indicators such as GDP growth and inflation rates. This analysis provides a broader economic context to the unemployment data.
+
+-Examine the Distribution of Unemployment Rates
+Histograms and box plots visualize the distribution of unemployment rates across states, helping to identify unusual patterns or outliers. This analysis can reveal states with consistently high or low unemployment rates.
+
+-Identify States with High Unemployment Risk Factors
+The dataset is used to identify states with high unemployment rates and analyze potential contributing factors. This analysis can help policymakers and researchers understand the underlying causes of high unemployment in certain areas.
+
+
+## Visualizations
 Bar Chart: Unemployment Rates Across States
 <img width="992" alt="Screen Shot 2024-11-07 at 10 31 35 PM" src="https://github.com/user-attachments/assets/84910689-e55a-40a6-a791-9b86b1aa0b7b">
+This bar chart visualization displays "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
 
-This bar chart visualization displaying "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
-1.Color Coding: The use of darker shades of blue for higher unemployment rates works well for visual emphasis. The gradient gives a quick visual indication of which states have higher or lower rates.
-2.Labels: The percentage labels on top of each bar make it easy to compare unemployment rates across states at a glance, which is effective for data communication.
-3.Axis Titles: Both the x-axis (States) and y-axis (Unemployment Rate %) are clearly labeled, contributing to overall readability.
+-Color Coding: The use of darker shades of blue for higher unemployment rates works well for visual emphasis. The gradient gives a quick visual indication of which states have higher or lower rates.
+-Labels: The percentage labels on top of each bar make it easy to compare unemployment rates across states at a glance, which is effective for data communication.
+-Axis Titles: Both the x-axis (States) and y-axis (Unemployment Rate %) are clearly labeled, contributing to overall readability.
 [https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c](https://vizhub.com/oabouhas/7d7187da88d149d49551e6f5d54b3b09)
 
 Bar Chart: the unemployment rates for 25 random states over 10 years
