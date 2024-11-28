@@ -85,13 +85,14 @@ The dataset is used to identify states with high unemployment rates and analyze 
 
 ## Visualizations
 Bar Chart: Unemployment Rates Across States
-<img width="992" alt="Screen Shot 2024-11-07 at 10 31 35 PM" src="https://github.com/user-attachments/assets/84910689-e55a-40a6-a791-9b86b1aa0b7b">
+<img width="973" alt="Screen Shot 2024-11-28 at 3 10 16 PM" src="https://github.com/user-attachments/assets/6668d87b-7da0-4335-853e-0a18c521da32">
+
 This bar chart visualization displays "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
 
 -Color Coding: The use of darker shades of blue for higher unemployment rates works well for visual emphasis. The gradient gives a quick visual indication of which states have higher or lower rates.
 -Labels: The percentage labels on top of each bar make it easy to compare unemployment rates across states at a glance, which is effective for data communication.
 -Axis Titles: Both the x-axis (States) and y-axis (Unemployment Rate %) are clearly labeled, contributing to overall readability.
-[https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c](https://vizhub.com/oabouhas/7d7187da88d149d49551e6f5d54b3b09)
+https://vizhub.com/oabouhas/e9fc1b5c652e410682b2c5dabdf7ee2c
 
 Bar Chart: the unemployment rates for 25 random states over 10 years
 <img width="993" alt="Screen Shot 2024-11-14 at 1 05 07 PM" src="https://github.com/user-attachments/assets/2d2f6c15-9493-4592-9411-7b840bd23f16">
