@@ -46,6 +46,27 @@ Which states have high unemployment risk factors?
      unemployment rates and analyze potential factors
      contributing to their high unemployment levels.
 
+## Steps Taken
+1. Data Collection and Preparation
+The first step involved loading and parsing the CSV dataset. This included cleaning the data, handling missing values, and transforming it into a format suitable for visualization.
+<img width="974" alt="Screen Shot 2024-11-28 at 2 46 46 PM" src="https://github.com/user-attachments/assets/5fb4b0df-9f8d-4fdd-8e19-63921bbbe96b">
+
+2. Sketching and Prototyping
+Next, I created hand-drawn sketches of the visualizations I envisioned. These sketches helped in planning the layout and interactions of the final visualization. Here are a few examples:
+
+<img width="660" alt="Screen Shot 2024-11-28 at 2 45 21 PM" src="https://github.com/user-attachments/assets/1916e21b-65b2-41a1-b393-b31d2a2860d7">
+
+
+3. Building the Visualization
+Using tools like D3.js and Tableau, I built the initial prototypes of the visualizations. These prototypes were iteratively refined based on feedback and testing.
+<img width="998" alt="Screen Shot 2024-11-28 at 2 48 35 PM" src="https://github.com/user-attachments/assets/37142072-2eb6-4146-977c-5133aa555831">
+
+
+4. Finalizing the Visualization
+After several iterations, the final version of the visualization was completed. It includes interactive features such as tooltips, zooming, and filtering, making it easy for users to explore the data.
+
+
+
 ## Sketches
 Bar Chart: Unemployment Rates Across States
 <img width="992" alt="Screen Shot 2024-11-07 at 10 31 35 PM" src="https://github.com/user-attachments/assets/84910689-e55a-40a6-a791-9b86b1aa0b7b">
