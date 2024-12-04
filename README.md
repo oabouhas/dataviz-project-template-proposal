@@ -85,7 +85,8 @@ The dataset is used to identify states with high unemployment rates and analyze 
 
 ## Visualizations
 **Bar Chart: Unemployment Rates Across States**
-<img width="973" alt="Screen Shot 2024-11-28 at 3 10 16 PM" src="https://github.com/user-attachments/assets/6668d87b-7da0-4335-853e-0a18c521da32">
+<img width="981" alt="Screen Shot 2024-12-04 at 6 58 06 PM" src="https://github.com/user-attachments/assets/299f613d-c5b7-4bc4-b5a9-76b19701c37e">
+
 
 This bar chart visualization displays "Unemployment Rates Across States," with different shades of blue representing unemployment rates for various U.S. states.
 
@@ -145,7 +146,8 @@ https://vizhub.com/oabouhas/714e632e9dee49309364e9ca2e2784db
 
 **Scatter Plot: Unemployment Rate vs Population**
 
-<img width="1251" alt="Screen Shot 2024-10-10 at 10 13 14 AM" src="https://github.com/user-attachments/assets/5ebe9f5e-07e1-41b5-a04a-e5053440ca64">
+<img width="1004" alt="Screen Shot 2024-12-04 at 7 54 23 PM" src="https://github.com/user-attachments/assets/29ff71ea-25d1-4299-aada-ad48fa4ac081">
+
 This project visualizes the relationship between the population and unemployment rate across different US states over time using a scatter plot.
 
 X-axis: Total population of a state
@@ -156,7 +158,8 @@ https://vizhub.com/oabouhas/unemployment-rate-vs-population-scatter-plot-visuali
 
 **Histogram: Distribution of Unemployment Rates**
 
-<img width="963" alt="Screen Shot 2024-10-22 at 6 02 47 PM" src="https://github.com/user-attachments/assets/5de53a94-167f-4864-b167-fd71aa280a93">
+<img width="922" alt="Screen Shot 2024-12-04 at 7 43 23 PM" src="https://github.com/user-attachments/assets/38c1fada-3f61-42db-a328-ac744690a21f">
+
 This graph visualizes the distribution of unemployment rates in the US for the year 2022 using a colored histogram. The histogram bars are colored based on the unemployment rate.
 
 X-axis: Unemployment rate
@@ -166,13 +169,15 @@ https://vizhub.com/oabouhas/c9421d4fae384fdbb4afef6d39ebf7aa
 
 **Bubble Map: Unemployment Rates in the US**
 
-<img width="964" alt="Screen Shot 2024-10-22 at 6 05 24 PM" src="https://github.com/user-attachments/assets/c0109ba7-9d9a-4360-a565-6268f37232b2">
+<img width="881" alt="Screen Shot 2024-12-04 at 6 49 39 PM" src="https://github.com/user-attachments/assets/f57cc0fa-79bd-4183-84bd-fe41f9a6a141">
+
 
 This project visualizes the unemployment rates in the US in 2022 using a bubble map. Each bubble’s size and color represent the unemployment rate for each state.
 https://vizhub.com/oabouhas/29044359fb9045d681a1ebc87b522580
 
 **Unemployment Rate Box Plot Visualization**
-<img width="969" alt="Screen Shot 2024-10-30 at 10 41 40 PM" src="https://github.com/user-attachments/assets/a3a593b9-2d2e-4d58-bff4-9b430526c7bc">
+<img width="1002" alt="Screen Shot 2024-12-04 at 7 37 35 PM" src="https://github.com/user-attachments/assets/dfef0056-2582-4143-9bf1-3fad5abc02aa">
+
 
 This project visualizes unemployment rate data across various U.S. states for the year 2020. Using D3.js, it presents a box plot to highlight the distribution of unemployment rates, showing median, quartiles, and range (min-max) for each state. This is part of a data visualization project aimed at making statistical data on employment more accessible and insightful.
 
@@ -180,7 +185,8 @@ https://vizhub.com/oabouhas/80ed8790b9f1420dac9be35c6d28920b
 
 
 **Unemployment Rate Heatmap**
-<img width="964" alt="Screen Shot 2024-11-07 at 11 44 17 AM" src="https://github.com/user-attachments/assets/2bf6d226-3ea6-436f-a215-eea8a86d641d">
+<img width="890" alt="Screen Shot 2024-12-04 at 7 20 27 PM" src="https://github.com/user-attachments/assets/462f44d9-72c0-41e2-a41f-334ab923c8f5">
+
 
 U.S. Unemployment Rates Heatmap Overview This visualization
 displays the monthly unemployment rates across selected U.S.
